@@ -1,6 +1,6 @@
 module.exports = {
 	tags: [
-		"posts"
+		"博客"
 	],
 	"layout": "layouts/post.njk",
 };
